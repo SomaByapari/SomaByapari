@@ -1,4 +1,3 @@
-![84219499](https://user-images.githubusercontent.com/84219499/119544806-b9427980-bdaf-11eb-945d-4151279bb152.jpg)
 - 👋 Hi, I’m @SomaByapari
 - 👀 I’m interested in C, C++, Python, HTML, CSS, Javascript and everything cool on the internet
 - 🌱 I’m currently learning React and Node.js
