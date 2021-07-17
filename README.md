@@ -1,10 +1,10 @@
-### Hi there 👋, my name is **Soma Byapari!**
-#### I am a passionate frontend developer from India
+### Hey 👋, My name is **Soma Byapari!**
+#### I am a passionate front-end developer from India.
 
 Skills: C/ C++/ Python/ Django/ HTML/ CSS/ JS/ React/ Node.js
 
 - 🔭 I’m currently working on **Personal projects** 
-- 🌱 I’m currently learning  **React and Node.js** 
+- 🌱 I’m currently learning  **MySQL and MongoDB** 
 - 👯 I’m looking to collaborate on  **Development domain** 
 - 💬 Ask me about **C/C++, Python** 
 - 📫 How to reach me: **byaparisoma132@gmail.com**
