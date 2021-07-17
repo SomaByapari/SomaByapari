@@ -1,15 +1,13 @@
-### Hi there 👋, my name is **Soma**
+### Hi there 👋, my name is **Soma Byapari!**
 #### I am a passionate frontend developer from India
 
-Skills: HTML/ CSS/ JS/ React/ Node.js
+Skills: C/ C++/ Python/ Django/ HTML/ CSS/ JS/ React/ Node.js
 
 - 🔭 I’m currently working on **Personal projects** 
 - 🌱 I’m currently learning  **React and Node.js** 
 - 👯 I’m looking to collaborate on  **Development domain** 
-- 💬 Ask me about **C, C++, Python** 
-- 📫 How to reach me: **byaparisoma132@gmail.com** 
-- ⚡ Fun fact: I think i'm funny XD 
-
+- 💬 Ask me about **C/C++, Python** 
+- 📫 How to reach me: **byaparisoma132@gmail.com**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/somabyapari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/somabyapari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/somabyapari)  
 
