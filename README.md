@@ -4,7 +4,7 @@
 Skills: C/ C++/ Python/ Django/ HTML/ CSS/ JS/ React/ Node.js
 
 - 🔭 I’m currently working on **Personal projects** 
-- 🌱 I’m currently learning  **MySQL and MongoDB** 
+- 🌱 I’m currently learning  **AWS** 
 - 👯 I’m looking to collaborate on  **Development domain** 
 - 💬 Ask me about **C/C++, Python** 
 - 📫 How to reach me: **byaparisoma132@gmail.com**
